@@ -1,27 +1,24 @@
 ### `yarn` Or `npm install`
-
 Para iniciar o projeto.<br>
 
 ### `yarn start` Or `npm start`
-
 Executa o aplicativo no modo de desenvolvimento.<br>
 Open [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.
 
 ### `yarn add eslint -D`
-
 Instala o Eslint para desenvolvimento.<br>
 
 .eslintrc.js Já esta configurado para utilização do EsLint! <br>
+### `yarn eslint --init`
+Para iniciar o eslint no projeto. Esse comando e obrigatório
 
 ### `Plugins`
-
 Voce precisa ter os plugins instalados:<br>
 <strong>Eslint</strong><br>
 <strong>Prettier - Code Formatter</strong><br>
 <strong>EditorConfig</strong>
 
 ### `OpenSettings.Json`
-
 Ctrl + Shift + P = Digite Open Settings para abrir as configurações Json do VSCODE <br>
 Após abrir as configurações copie e cole todos codigos a baixo.
 
