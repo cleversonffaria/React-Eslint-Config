@@ -17,7 +17,7 @@ Instala o Eslint para desenvolvimento.<br>
 
 Voce precisa ter os plugins instalados:<br>
 <strong>Eslint</strong><br>
-<strong>Prettier - Code Formatter</strong>
+<strong>Prettier - Code Formatter</strong><br>
 <strong>EditorConfig</strong>
 
 ### `OpenSettings.Json`
